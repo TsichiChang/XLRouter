@@ -1,0 +1,6 @@
+framework module XLRouter {
+  umbrella header "XLRouter-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "XLRouter",
+  "version": "0.1.0",
+  "summary": "A short description of XLRouter.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/serrian/XLRouter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "serrian": "zhang911010+gitkraken@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/serrian/XLRouter.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XLRouter/Classes/**/*"
+}

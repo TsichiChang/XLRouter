@@ -1,0 +1,12 @@
+use_frameworks!
+
+target 'XLRouter_Example' do
+  pod 'XLRouter', :path => '../'
+
+  target 'XLRouter_Tests' do
+    inherit! :search_paths
+
+    pod 'Specta'
+    pod 'Expecta'
+  end
+end

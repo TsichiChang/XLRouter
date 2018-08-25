@@ -1,0 +1,27 @@
+PODS:
+  - Expecta (1.0.6)
+  - Specta (1.0.7)
+  - XLRouter (0.1.0)
+
+DEPENDENCIES:
+  - Expecta
+  - Specta
+  - XLRouter (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Expecta
+    - Specta
+
+EXTERNAL SOURCES:
+  XLRouter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
+  Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
+  XLRouter: ed31bc226ff52fce7326d5cb44d051eca9700ac6
+
+PODFILE CHECKSUM: 571ec7ab20761c6bbaad65a4c8baaef6ce368bdc
+
+COCOAPODS: 1.5.3
