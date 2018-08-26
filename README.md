@@ -20,9 +20,9 @@ it, simply add the following line to your Podfile:
 pod 'XLRouter'
 ```
 
-## Author
+## Contact
 
-serrian, zhang911010+gitkraken@gmail.com
+zhang911010@gmail.com
 
 ## License
 
