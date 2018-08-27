@@ -1,6 +1,6 @@
 # XLRouter
 
-[![CI Status](https://img.shields.io/travis/serrian/XLRouter.svg?style=flat)](https://travis-ci.org/serrian/XLRouter)
+[![CI Status](https://img.shields.io/travis/TsichiChang/XLRouter.svg?style=flat)](https://travis-ci.org/TsichiChang/XLRouter)
 [![Version](https://img.shields.io/cocoapods/v/XLRouter.svg?style=flat)](https://cocoapods.org/pods/XLRouter)
 [![License](https://img.shields.io/cocoapods/l/XLRouter.svg?style=flat)](https://cocoapods.org/pods/XLRouter)
 [![Platform](https://img.shields.io/cocoapods/p/XLRouter.svg?style=flat)](https://cocoapods.org/pods/XLRouter)
